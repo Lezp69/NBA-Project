@@ -53,7 +53,7 @@ The script will execute various analysis tasks and generate visualizations based
 
 The NBA Project utilizes data from the following sources:
 
-- [NBA API](https://www.nba.com/stats/): The official NBA API provides access to a wide range of NBA statistics, including player and team data.
+- [BALLDONTLIE API](https://app.balldontlie.io): A NBA API provides access to a wide range of NBA statistics, including player and team data.
 
 Please note that the availability and terms of these data sources may change over time. It is advisable to refer to the respective sources for the most up-to-date information.
 
