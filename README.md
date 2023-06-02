@@ -1,6 +1,6 @@
 # NBA Project
 
-This repository contains an NBA Project, developed by Lezp69, which aims to provide a comprehensive analysis of NBA teams, players, and statistics. The project utilizes Python programming language and various data analysis libraries to gather, process, and visualize NBA data.
+This repository contains an NBA Project, developed by Lezp69, which aims to provide a comprehensive analysis of NBA players, and statistics. The project utilizes Python programming language and various data analysis libraries to gather, process, and visualize NBA data.
 
 ## Table of Contents
 
